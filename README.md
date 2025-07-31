@@ -1,77 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I’m Jeremy Girod
 
-<!--
-**jeremygirod/jeremygirod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior SOC Manager | Cybersecurity Leader | IR Specialist**  
+🔹 GCIH • GCFA • GCIA • CISSP • CCSP • CISM • CEH   
+🔹 Building modern SOCs, training cyber analysts, and pushing Blue Team tradecraft forward
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Tech I Use
 
-# Hello, I'm Jeremy
-<a href="https://www.linkedin.com/in/jeremygirod/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+**EDR / Forensics**: Velociraptor, KAPE, CrowdStrike, GRR  
+**SIEM / SOAR**: Splunk, Security Onion, Google SECOPS
+**Frameworks**: MITRE ATT&CK, NIST 800-61, NIST NICE
 
-[Brief Introduction - Remove this afterwards]
+---
 
-I am a cybersecurity professional with a profound interest in technology and a dedication to solving complex problems.
+## 📌 Pinned Projects
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+### 🛡️ SOC Analyst Training Matrix  
+NIST NICE-mapped skills matrix to track and grow analyst capabilities  
+[🔗 View Repository](#)
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to become a creator in this field, specifically aiming to help train Security Operations Center (SOC) Analyst.
+### 📊 SOC Alert Metrics Dashboard  
+Custom metrics to monitor alert types, volumes, enrichment, and analyst performance  
+[🔗 View Repository](#)
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+### ⚔️ MITRE ATT&CK Detection Labs  
+Practical labs using Atomic Red Team, Velociraptor, and KAPE, mapped to ATT&CK  
+[🔗 View Repository](#)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+---
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Website coming soon: **[jeremygirod.com](https://www.jeremygirod.com)**  
+Follow along on LinkedIn and GitHub as I share updates and new tools.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🤝 Connect With Me
+ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeremygirod)  
+- 🌐 [jeremygirod.com](https://www.jeremygirod.com) *(coming soon)*
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+> *“Cyber defense isn't just alerts and logs—it's leadership, training, and relentless curiosity.”*
